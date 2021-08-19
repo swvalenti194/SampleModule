@@ -6,7 +6,7 @@ sample module structure
  */
 
 
-Module.register("SampleModule", {
+Module.register("Dirty-Compliments", {
 	// define variables used by module, but not in config data
 	some_variable:  true,
 	some_other_variable: "a string",
